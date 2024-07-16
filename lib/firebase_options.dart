@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyA4aP77BngeWFxfhPkB9GkcEGmJnYCDZas',
+    apiKey: aloo,
     appId: '1:343918885580:ios:2c3a5c2188ad79b2352069',
     messagingSenderId: '343918885580',
     projectId: 'todolist-dc02c',
@@ -68,7 +68,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyA4aP77BngeWFxfhPkB9GkcEGmJnYCDZas',
+    apiKey: aloo,
     appId: '1:343918885580:ios:2c3a5c2188ad79b2352069',
     messagingSenderId: '343918885580',
     projectId: 'todolist-dc02c',
@@ -77,7 +77,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBLFM5KcMChb7THw7pJCA7YNNo9ngypej0',
+    apiKey: aloo,
     appId: '1:343918885580:web:9a05c9a90af1dae7352069',
     messagingSenderId: '343918885580',
     projectId: 'todolist-dc02c',
