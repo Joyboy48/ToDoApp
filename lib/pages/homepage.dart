@@ -207,7 +207,7 @@ class _HomepageState extends State<Homepage> {
           BottomNavigationBarItem(
             icon: InkWell(
               onTap: () {
-                Navigator.push(context, MaterialPageRoute(builder: (builder) => PandaPage()));
+                //Navigator.push(context, MaterialPageRoute(builder: (builder) => PandaPage()));
               },
               child: Icon(Icons.home, size: 32),
             ),
